@@ -5,6 +5,10 @@
   "license": "MIT",
   "main": "",
   "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenleccss361/types-innoway.git"
+  },
   "scripts": {},
   "dependencies": {},
   "typeScriptVersion": "5.1"
